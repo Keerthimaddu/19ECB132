@@ -1,5 +1,5 @@
 # 19ECB132
-**Index
+Index
 
 [static.c](https://github.com/Keerthimaddu/19ECB132/blob/main/static.c)
 [ifelse.c](https://github.com/Keerthimaddu/19ECB132/blob/main/ifelse.c)
