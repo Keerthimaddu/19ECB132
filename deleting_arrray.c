@@ -21,3 +21,13 @@ main()
 	}
 	
 }
+
+
+/* Output
+
+enter n 4
+1 2 3 4
+enter position 3
+1 2 4
+
+*/
