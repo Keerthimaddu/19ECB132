@@ -26,3 +26,14 @@ void main()
 		printf("%d",a[i]);
 	}
 }
+
+
+/* Output
+
+enter size of array 5
+enter array elements 1 2 3 4 5
+enter position 3
+enter item 0
+1 2 3 0 4 5
+
+*/
