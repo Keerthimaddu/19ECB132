@@ -14,3 +14,11 @@ int fact(int n)
   else
     return(n*fact(n-1));
 }
+
+
+/* Output
+
+enter n 4
+24
+
+*/
