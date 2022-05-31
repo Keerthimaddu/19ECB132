@@ -8,7 +8,16 @@ main()
    {
      if(i%2!=0)
      {
-       printf("odd+%d",i);
+       printf("%d",i);
      }
-     printf("enter n=%d",i);
+     printf(" ");
    }
+}
+
+
+/* Output
+
+enter n 14
+1 3 5 7 9 11 13
+
+*/
