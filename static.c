@@ -10,3 +10,11 @@ display()
   c+5;
   printf("%d",c);
 }
+
+
+/* Output
+
+11
+
+*/
+
