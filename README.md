@@ -12,3 +12,4 @@
 [Binary_tree.c](Binary_tree.c)      
 [add,delete,modifiying_singlelinkedlist.c](add,delete,modifiying_singlelinkedlist.c)   
 [add,deleting,modifying_doublylinkedli](add,deleting,modifying_doublylinkedlist.c)   
+[traversal.c](traversal.c)
