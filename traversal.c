@@ -66,3 +66,12 @@ int main() {
     preOrder(root);
     return 0;
 }
+
+
+/* Output
+
+6
+1 2 5 3 6 4
+1 2 5 3 4 6 
+
+*/
