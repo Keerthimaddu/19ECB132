@@ -10,6 +10,6 @@
 [adding_array.c](adding_array.c)      
 [deleting_arrray.c](deleting_arrray.c)    
 [Binary_tree.c](Binary_tree.c)      
-[add,delete,modifiying_singlelinkedlist.c](add,delete,modifiying_singlelinkedlist.c)   
-[add,deleting,modifying_doublylinkedli](add,deleting,modifying_doublylinkedlist.c)   
+[singlelinkedlist.c](singlelinkedlist.c)   
+[doublylinkedlist.c](doublylinkedlist.c)   
 [traversal.c](traversal.c)
